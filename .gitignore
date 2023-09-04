@@ -1,0 +1,59 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Webpack
+dist/
+build/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.suo
+*.user
+*.sbr
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb][Ii][Nn]/
+[Ll][Oo][Gg][Ss]/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Dependency directories
+/bower_components/
+/jspm_packages/
+/node_modules/
+
+# OS directories
+.DS_Store
+.directory
+
+# Visual Studio files
+.vscode/
+
+# Debug log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
