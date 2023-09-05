@@ -10,7 +10,7 @@ J.A.T.E (Just Another Text Editor) is a powerful and intuitive text editing tool
 - Installable as a PWA for offline use.
 - Save and load documents to/from your local device.
 
-Deployed App 
+## Deployed App 
 https://pwa-jate-unc-6a94338fea53.herokuapp.com/
 
 ## Table of Contents
