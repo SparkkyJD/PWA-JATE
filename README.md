@@ -24,6 +24,7 @@ J.A.T.E (Just Another Text Editor) is a powerful and intuitive text editing tool
 
 ## Screenshot
 
+![Screenshot (68)](https://github.com/SparkkyJD/PWA-JATE/assets/127361245/4096b0d9-0131-4121-89d3-b7fee05142cc)
 
 ## Installation
 Clone repo into your own
